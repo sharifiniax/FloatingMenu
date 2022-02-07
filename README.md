@@ -4,7 +4,7 @@ FloatingMenu
 This is a simple Menu that you can use it by constraintLayout in android studio. This library is based on answers (https://stackoverflow.com/questions/4139288/android-how-to-handle-right-to-left-swipe-gestures). 
 
 
-<kbd><img src="https://github.com/sharifiniax/FloatingMenu/FloatingMenu.gif" width="24%" height="400px"></kbd>
+<kbd><img src="https://github.com/sharifiniax/FloatingMenu/blob/master/FloatingMenu.gif" width="24%" height="400px"></kbd>
 
 
 Gradle
