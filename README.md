@@ -1,4 +1,4 @@
-FoatingMenu
+FloatingMenu
 ===============
 
 This is a simple Menu that you can use it by constraintLayout in android studio. This library is based on answers (https://stackoverflow.com/questions/4139288/android-how-to-handle-right-to-left-swipe-gestures). 
