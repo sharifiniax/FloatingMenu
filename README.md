@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/sharifiniax/FloatingMenu.svg)](https://jitpack.io/#sharifiniax/FloatingMenu)
+
 FloatingMenu
 ===============
 
