@@ -7,6 +7,8 @@ This is a simple Menu that you can use it by constraintLayout in android studio.
 <kbd><img src="https://github.com/sharifiniax/FloatingMenu/blob/master/FloatingMenu.gif" width="100%" height="400px"></kbd>
 
 
+<h2>Include in your project</h2>
+
 Gradle
 ------
 ```
